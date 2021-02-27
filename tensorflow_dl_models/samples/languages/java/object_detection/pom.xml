@@ -19,7 +19,7 @@
       <dependency>
         <groupId>org.tensorflow</groupId>
         <artifactId>proto</artifactId>
-        <version>1.4.0</version>
+        <version>1.15.0</version>
       </dependency>
     </dependencies>
 </project>
